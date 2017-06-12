@@ -1,18 +1,6 @@
- am trying to push this file to repository
-
-
-
-
-
-
-
-
- dfwenjr
-dfjhieur'
-Bidosifdsi frwerjehwuiefyfj
-chvudsyfi
-A
-
+ i am trying to push this file to repository
+ 
+ this is very funny to push and pull from repository
 # hello-world
 Hi
 
